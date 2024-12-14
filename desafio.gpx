@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>New file 2</name>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="39.731846" lon="-8.912967">
+    <ele>118.36251441219433</ele>
+    <name>Pavilhão</name>
+    <cmt>Quantas bilheteiras tem o pavilhão do SIR?
+
+A frente da porta principal do pavilhão existe um forno a lanha… quando e para quê que ele e usado? 
+
+Qual é o nome da menina que está sempre na secretaria do SIR? 
+
+Quantas focos de iluminação tem o ringue do pavilhão?
+
+
+Nas festa de Picassinos vendemos marisco. Indica 2 sitios que já foi usado como marisqueira.
+
+Quantos níveis tem a bancada do pavilhão ? 
+
+Quantos metros de largura e comprimento o campo do SIR precisava de ter a mais para estar dentro das normas? 
+</cmt>
+    <desc>Quantas bilheteiras tem o pavilhão do SIR?
+
+A frente da porta principal do pavilhão existe um forno a lanha… quando e para quê que ele e usado? 
+
+Qual é o nome da menina que está sempre na secretaria do SIR? 
+
+Quantas focos de iluminação tem o ringue do pavilhão?
+
+
+Nas festa de Picassinos vendemos marisco. Indica 2 sitios que já foi usado como marisqueira.
+
+Quantos níveis tem a bancada do pavilhão ? 
+
+Quantos metros de largura e comprimento o campo do SIR precisava de ter a mais para estar dentro das normas? 
+</desc>
+    <sym>Building</sym>
+  </wpt>
+  <wpt lat="39.731918" lon="-8.91351">
+    <ele>119.57899677588462</ele>
+    <name>Sede</name>
+    <cmt>Em que ano foi fundado o SIR 1º de maio? Quanto anos tem?
+
+O actual salão de festas foi o primeiro espaço na Marinha Grande a oferecer um tipo de entretenimento muito recente nos anos 50 em Portugal. Sabes qual era? 
+
+Tira uma foto ao símbolo mais alto do SIR que conseguires encontrar 
+
+Qual e o nome do autor do Livro sobre o SIR 1º de Maio e em que ano foi lançado?</cmt>
+    <desc>Em que ano foi fundado o SIR 1º de maio? Quanto anos tem?
+
+O actual salão de festas foi o primeiro espaço na Marinha Grande a oferecer um tipo de entretenimento muito recente nos anos 50 em Portugal. Sabes qual era? 
+
+Tira uma foto ao símbolo mais alto do SIR que conseguires encontrar 
+
+Qual e o nome do autor do Livro sobre o SIR 1º de Maio e em que ano foi lançado?</desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="39.731217" lon="-8.913904">
+    <ele>118.14962802485151</ele>
+    <name>Escolas de Picassinos</name>
+    <cmt>Quantos bancos de jardim tem a escola? 
+
+Quantos pneus a escola tem?
+
+O Coach João, andou na escola de Picassinos do 1º ao 4º ano... mas esta parece que não é a escola onde ele andou… Encontra a escolha velha de Picassinos e tira uma foto de grupo a frente dessa escola !  Fica na mesma rua…desce a rua e irás encontrar.
+
+A escola velha é muito antiga e é dividida em duas parte iguais. Sabes porque? 
+</cmt>
+    <desc>Quantos bancos de jardim tem a escola? 
+
+Quantos pneus a escola tem?
+
+O Coach João, andou na escola de Picassinos do 1º ao 4º ano... mas esta parece que não é a escola onde ele andou… Encontra a escolha velha de Picassinos e tira uma foto de grupo a frente dessa escola !  Fica na mesma rua…desce a rua e irás encontrar.
+
+A escola velha é muito antiga e é dividida em duas parte iguais. Sabes porque? 
+</desc>
+    <sym>Bank</sym>
+  </wpt>
+  <wpt lat="39.731033" lon="-8.914387">
+    <ele>118.09727687972543</ele>
+    <name>Igreja</name>
+    <cmt>Quantos sinos tem a igreja?  
+
+Queres ir the TUMG para a igreja, Qual e a cor da linha?  numero da paragem?
+
+Quantas candeeiros de pé a igreja tem? 
+
+Em que ano foi inaugurada a igreja de picadinhos? E em que dia se festeja a festa da igreja em 2024? 
+
+Perto da igreja onde podes encontra o Rumo? 
+
+</cmt>
+    <desc>Quantos sinos tem a igreja?  
+
+Queres ir the TUMG para a igreja, Qual e a cor da linha?  numero da paragem?
+
+Quantas candeeiros de pé a igreja tem? 
+
+Em que ano foi inaugurada a igreja de picadinhos? E em que dia se festeja a festa da igreja em 2024? 
+
+Perto da igreja onde podes encontra o Rumo? 
+
+</desc>
+    <sym>Exit</sym>
+  </wpt>
+  <trk>
+    <name>New file 2</name>
+  </trk>
+</gpx>
